@@ -48,6 +48,15 @@ export const Work = [
     //     demo:"http://devto-clone-codebucks27.vercel.app/",
     //     github:"https://github.com/codebucks27/devto-clone"
     // },
+       {
+        id:3,
+        name:"Cloud Management",
+        description:"A  CLoud Management application build using ReactJS. With style using tailwindcss",
+        tags:["react","heroicons","tailwindcss","react-scroll"],
+        
+        demo:"https://cloudsakthi.netlify.app/",
+        github:"https://github.com/Sakthiveldeveloper/cloudapp"
+    },
     // {
     //     id:4,
     //     name:"Sidebar Menu",
