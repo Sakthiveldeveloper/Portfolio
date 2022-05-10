@@ -51,8 +51,8 @@ export const Work = [
        {
         id:3,
         name:"Cloud Management",
-        description:"A  CLoud Management application build using ReactJS. With style using tailwindcss",
-        tags:["react","heroicons","tailwindcss","react-scroll"],
+        description:"A  CLoud Management application build using ReactJS. With style using Tailwindcss. with icons using Heroicons",
+        tags:["react","heroicons","Tailwindcss","react-scroll"],
         
         demo:"https://cloudsakthi.netlify.app/",
         github:"https://github.com/Sakthiveldeveloper/cloudapp"
